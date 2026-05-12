@@ -9,7 +9,7 @@
 > Создайте Issue в [разделе Issues](https://github.com/decooper/FRO-Assistant-Releases/issues) или свяжитесь с автором.
 > Ваша обратная связь помогает делать программу лучше!
 
-**FRO Assistant** — бесплатная десктопная программа для виртуальных пилотов, выполняющих полёты в сети **VATSIM**. Программа помогает на всех этапах полёта: от подготовки до заруливания на стоянку.
+**FRO Assistant** — бесплатная десктопная программа для виртуальных пилотов, выполняющих полёты в сети **VATSIM**. Программа создана для помощи с фразеологией на всех этапах полёта: от подготовки до заруливания на стоянку.
 
 [![Downloads](https://img.shields.io/github/downloads/decooper/FRO-Assistant-Releases/total)](https://github.com/decooper/FRO-Assistant-Releases/releases)
 [![Latest](https://img.shields.io/github/v/release/decooper/FRO-Assistant-Releases)](https://github.com/decooper/FRO-Assistant-Releases/releases/latest)
